@@ -1,3 +1,3 @@
 # Aulas-EAFEXP
 
-essas são todos os exemplos utilizados nas aulas da 6°EAFEXP, no modulo de IA aplicado a física
+Esses são todos os exemplos utilizados nas aulas da 6ª Escola Avançada de Física Experimental (6ª EAFEXP) no módulo de Inteligência Artificial aplicada à Física.
